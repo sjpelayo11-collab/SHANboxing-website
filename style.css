@@ -49,4 +49,14 @@ h1 {
     text-shadow:  0px 5px 5px red;
 }
     li:hover{
-    box-shadow: 5px 5px 5px black;
+    box-shadow: 5px 5px 5px black;}
+
+
+    table, th, td{
+
+border: 1px solid black;
+
+    }
+    @media screen and (max-width:767px){
+        
+    }
