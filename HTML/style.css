@@ -1,0 +1,80 @@
+video {
+    
+    box-shadow: 0px 0px 12px grey;
+    transition: all 2s ease-in-out;
+    
+    
+    
+}
+.container{
+
+padding: min(5em, 8%);
+
+width: 400px;
+
+background-color:
+
+white;
+
+box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.05);
+
+border-radius:
+
+1em;
+
+}
+
+
+
+h1 {
+    text-shadow: 0px 0px 5px rgb(32, 138, 0), 0px 5px 5px rgb(231, 0, 0);
+}
+    h1:hover{
+    box-shadow: 5px 5px 5px black;
+
+}
+
+p {
+    text-shadow: 0px 0px 5px rgb(246, 255, 248), 0px 5px 5px rgb(0, 255, 115);
+    text-decoration: aliceblue;
+}
+    p:hover{
+    box-shadow: 5px 5px 5px black;
+
+}
+
+h3 {
+    text-shadow: 0px 0px 5px rgb(255, 255, 255), 0px 5px 5px rgb(21, 255, 0);
+}
+    h3:hover{
+    box-shadow: 5px 5px 5px rgb(248, 248, 248);
+
+}
+
+button {
+    text-shadow: 0px 0px 5px rgb(235, 235, 235), 0px 5px 5px rgb(0, 252, 76);
+}
+    button:hover{
+    box-shadow: 5px 5px 5px black;
+
+}
+h1 {
+    text-shadow: 0px 0px 5px rgb(255, 255, 255), 0px 5px 5px rgb(0, 255, 76);
+}
+    h1:hover{
+    box-shadow: 5px 5px 5px black; 
+    }
+
+    li {
+    text-shadow:  0px 5px 5px rgb(0, 255, 13);
+}
+    li:hover{
+    box-shadow: 5px 5px 5px rgb(255, 255, 255);}
+
+
+    table, th, td{
+
+border: 1px solid rgb(230, 210, 210);
+
+    }
+    
